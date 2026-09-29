@@ -1,6 +1,9 @@
 {
   "permissions": {
     "allow": [
+      "mcp__Canva__copy-design",
+      "mcp__Canva__edit-design",
+      "mcp__Canva__merge-designs",
       "mcp__Canva__read-design"
     ]
   }
